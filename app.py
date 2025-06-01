@@ -56,7 +56,7 @@ def main():
     st.title("Bangalore House Price Predictor")
     html_temp = """
            <div>
-           <h2>House Price Prediction ML app</h2>
+           <h2>House Price Prediction using ML</h2>
            </div>
            """
     st.markdown(html_temp, unsafe_allow_html=True)
